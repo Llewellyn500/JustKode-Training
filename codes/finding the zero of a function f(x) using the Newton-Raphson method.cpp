@@ -5,12 +5,12 @@
 using namespace std;
 int main()
 {
-    double x, y, epsilon, x_old, x_new;
+    double x, epsilon, x_old, x_new;
     int i = 0;
     cout << "Enter Initial guess: ";
     cin >> x;
     epsilon = 1e-6;
-    x_old = x;
+    x_old= x;
     do
     {
         x_new = x_old - ((2.0 * pow(x_old, 5)) + (4 * x_old) - 72) / (10 * pow(x_old, 4) + 4);
