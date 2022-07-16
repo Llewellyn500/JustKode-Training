@@ -5,10 +5,10 @@
 using namespace std;
 int main()
 {
-    double x, y, epsilon,x_old, x_new;
+    double x, y, epsilon, x_old, x_new;
     int i;
-    cout<<"Enter Initial guess: ";
-    cin>>x;
+    cout << "Enter Initial guess: ";
+    cin >> x;
     epsilon = 1e-6;
     x_old = x;
     for (i = 0; i < 100; i++)
