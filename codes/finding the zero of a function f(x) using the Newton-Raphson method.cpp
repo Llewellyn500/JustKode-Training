@@ -6,20 +6,28 @@ using namespace std;
 int main()
 {
     double x, y, epsilon, x_old, x_new;
-    int i;
+    int i=0;
     cout << "Enter Initial guess: ";
     cin >> x;
     epsilon = 1e-6;
     x_old = x;
-    for (i = 0; i < 100; i++)
-    {
-        x_new = x_old - (pow(x_old, 5) + 4 * x_old - 72) / (5 * pow(x_old, 4) + 4);
+    do{
+        x_new = x_old - ((2.0*pow(x_old, 5)) + (4 * x_old) - 72) / (10 * pow(x_old, 4) + 4);
         x_old = x_new;
-        if (fabs(x_new - x) < epsilon)
-        {
-            break;
-        }
-    }
+        i++;
+    }while (fabs(x_new - x) < epsilon);
+    
+
+    // for (i = 0; i < 200; i++)
+    // {
+    //     x_new = x_old - ((2*pow(x_old, 5)) + (4 * x_old) - 72) / (10 * pow(x_old, 4) + 4);
+    //     x_old = x_new;
+    //     if (fabs(x_new - x) < epsilon)
+    //     {
+    //         break;
+    //     }
+    // }
+
     cout << "The root of the function f(x) is " << x_new << endl;
     cout << "The number of iterations is " << i << endl;
     return 0;
