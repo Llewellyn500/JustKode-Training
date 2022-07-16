@@ -17,5 +17,5 @@
 ---
 
 <h2 align=center>BROUGHT TO YOU BY:</h2>
-<img src="./files/Just Kode logo 4 (Orange).png" width="150px" alt="Just Kode logo"> 
-<img src="./files/Arclapain-Logo_Dark.png" width="150px" alt="Arclapain logo">
+<img src="./files/Just Kode logo 4 (Orange).png" width="100px" height="100px" alt="Just Kode logo"> 
+<img src="./files/Arclapain-Logo_Dark.png" width="100px" height="100px" alt="Arclapain logo">
