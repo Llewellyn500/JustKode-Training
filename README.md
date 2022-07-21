@@ -14,6 +14,9 @@
 
 - <a href="./codes/finding the zero of a function f(x) using the Newton-Raphson method.cpp">Finding the Squares of a Function.</a>
 
+- <a href="./codes/advance grading system.cpp">Advance Grading System.</a>
+
+
 
 <h2 align=center>BROUGHT TO YOU BY:</h2>
 <img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"> 
