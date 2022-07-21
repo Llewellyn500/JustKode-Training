@@ -1,4 +1,4 @@
-<img src="./files/banner.jpg">
+<img src="./files/JUST KODE.png">
 
 <h1 align="center"> JustKode Training </h1>
 
@@ -16,5 +16,5 @@
 
 
 <h2 align=center>BROUGHT TO YOU BY:</h2>
-<img align="left" src="./files/Just Kode logo 4 (Orange).png" width="100px" height="100px" alt="Just Kode logo"> 
+<img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"> 
 <img align="left" src="./files/Arclapain-Logo_Dark.png" width="100px" height="100px" alt="Arclapain logo">

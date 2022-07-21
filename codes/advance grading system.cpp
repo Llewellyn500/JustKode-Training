@@ -38,6 +38,6 @@ int main()
             cout << "Grade of course " << j + 1 << " is F" << endl;
         }
     }
-    
+
     return 0;
 }
