@@ -15,11 +15,13 @@ using namespace std;
 int main()
 {
     int a, b, product;
-    cout << "Enter the two numbers you want to find the product of: ";
-    cin >> a >> endl;
-    cin >> b >> endl;
+    cout << "Enter the two numbers you want to find the product of; ";
+    cout << "\n1st number: ";
+    cin >> a;
+    cout << "\n2nd number: ";
+    cin >> b;
     product = 0;
-    while (a != 1)
+    while (a != 0)
     {
         if (a % 2 != 0)
         {
@@ -28,7 +30,6 @@ int main()
         a = a / 2;
         b = b * 2;
     }
-    product = product + b;
-    cout << "The product of the two numbers " << a << " and " << b << " is " << product << endl;
+    cout << "The product of the two numbers: " << product;
     return 0;
 }

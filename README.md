@@ -8,6 +8,8 @@
 
 <h2>Table of Content:</h2>
 
+<h3> Projects done: </h3>
+
 - <a href="./codes/Printing out factorial of a number.cpp">Printing Factorial.</a>
 
 - <a href="./codes/converting distance.cpp">Converting Distance.</a>
@@ -16,7 +18,13 @@
 
 - <a href="./codes/advance grading system.cpp">Advance Grading System.</a>
 
+<h3>Try questions: (<a href="./codes/class work/TryQuestions.doc">Document</a>)</h3>
 
+- <a href="./codes/class work/question 11.cpp">Question 11</a>
+
+- <a href="./codes/class work/question 15.cpp">Question 15</a>
+
+- <a href="./codes/class work/question 16.cpp">Question 16</a>
 
 <h2 align=center>BROUGHT TO YOU BY:</h2>
 <img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"> 
