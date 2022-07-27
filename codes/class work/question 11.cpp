@@ -4,12 +4,22 @@
 using namespace std;
 int main()
 {
-    int m, n, r;
-    cout << "Enter the value of m: ";
-    cin >> m;
-    cout << "Enter the value of n: ";
+    double n, m, remainder, new_n;
+    int counter = 0;
+    cout << "Enter n: ";
     cin >> n;
-    r = m % n;
-    cout << "The remainder is: " << r << endl;
+    cout << "Enter m: ";
+    cin >> m;
+    new_n = n;
+
+    while (n - m >= 0)
+    {
+        n -= m;
+        counter++;
+    }
+    remainder = n;
+    cout << endl;
+    cout << m << " goes into " << new_n << ", " << counter << " times" << endl;
+    cout << "Remainder: " << remainder;
     return 0;
 }
