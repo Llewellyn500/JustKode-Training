@@ -48,6 +48,14 @@
 
 - <a href="./codes/class work/question 16.cpp">Question 16</a>
 
+- <a href="./codes/class work/question 17.cpp">Question 17</a>
+
+- <a href="./codes/class work/question 18.cpp">Question 18</a>
+
+- <a href="./codes/class work/question 19.cpp">Question 19</a>
+
+- <a href="./codes/class work/question 20.cpp">Question 20</a>
+
 <h2 align=center>BROUGHT TO YOU BY:</h2>
 <img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"> 
 <img align="left" src="./files/Arclapain-Logo_Dark.png" width="100px" height="100px" alt="Arclapain logo">
