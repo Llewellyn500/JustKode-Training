@@ -18,14 +18,8 @@ Devise a computer solution that reads in a positive integer n and then prints th
 Question 6
 Write down a computer solution that can be used to count the number of times a particular digit appears in an (integer) input. Hint you may assume that there is an operator % that returns the remainder when one integer is divided by another and has the syntax a %b where a and b are integer constants.
 
-
-
-
-
-
 Question 7
 Assume that there is a function MID with the syntax, MID(s1,m,n) where s1 a string, and m and n are integers. Given that MID(s1,m,n) is to return n middle characters of s1 starting from the character at position m, write a computer solution that accepts as input a string of characters and output the number of times a particular character appears in the input. 
-
 
 Question 8
 Write a computer solution that accepts as input an integer value and then output the sum of the digits in the number as well as the number of digits it has with appropriate captions.
@@ -40,7 +34,6 @@ If p and q are both primes and q=p+2, then the pair p,q are called twin primes. 
 
 Question 11
 Without using the division (/) devise a computer solution that can be used to m goes into n as well as the remainder. The values for m and n will be read as inputs.
-
 
 Question 12
 Brofoyedur is a small town in the Central Region of Ghana. It has been estimated that the population of this town is about 2000 people and that the population is increasing at a rate of 15% every six months. You are required to write a computer solution to determine the number of years that it would take for the population size to exceed two million for the village to become a city.
@@ -57,13 +50,12 @@ A number N may be said to be either a perfect, deficient or abundant number. If 
 Question 15
 The  RUSSIAN  PEASANT  method is one way of finding the product of any two given numbers. Given that A and B are two positive numbers, A is divided by  2  and its decimal part truncated, while B  is also  multiplied  by 2.  This process of dividing and multiplying is repeated until A attains a value of 1. The product of the two numbers is then  the  sum  of  all  B values whose corresponding A values ( including the initial value of A) are odd. As a typical example, let A and B be 21 and 10 respectively then the division and the multiplication can be written down as follows:
 
-	Current value of  A			Current value 
-                                                         of B
-21	10
-10					20
-5					40
-2					80
-1					160
+	Current value of  A			Current value  of B
+            21	                         10
+            10					         20
+            5					         40
+            2					         80
+            1					         160
 
 In the above, the bolded lines show when the value of A is odd. The product of the two numbers will therefore be the sum of the bolded B values, which is 210 (10+40+160). Write a computer solution that accepts as input two positive integers and then return the product of the two numbers using the above method with an appropriate caption. Hint use the modulus operator ( %) where necessary.
 
@@ -78,10 +70,6 @@ Note:  1 mile = 1760 yards and 3 feet = 1 yard.
 
 Question 17
 Pay As You Study University of Ghana charges 1000 cedis for each semester hour of credit, 500000 cedis for regular room (R) and 1000000 cedis for an air-conditioned room (A) and 500000  cedis for use of academic facilities. All students pay 200000 for matriculation and graduating students pay 300000 cedis for degree certificate. Devise a computer solution that computes fees that must be paid by each student. A warning message should be displayed if a student is taking more than 21 credit hours and less than 15 credit hours per semester. The input per student should be students' id number (4 digits), room type (A or R), credit hours and graduating status (Y or N).
-
-
-
-
 
 Question 18
 The transportation fare along a certain road in Ghana is calculated using the following sliding scale:
@@ -114,8 +102,6 @@ You are required to write a computer solution that can be used to display the nu
 Question 21
 A numeric palindrome is any number that can be read in both directions, that is from left to right and from right to left to give the same value. For example, 13533531 is a numeric palindrome. Write down a computer solution that can accept an n-digit integer number (not necessarily a numeric palindrome) and find an n-digit number, M when appended to the original number would make it a numeric palindrome.
 
-
-
 Question 22
 Write a computer solution to generate the Fibonacci series given the first two terms. For example, if the first two terms of a series are 0 and 1, the next (3rd) term is obtained by adding the two preceding terms (1st and 2nd), etc. Thus the third term of the series will be 1 and the fourth will be 2, etc. Generally, the Fibonacci series is defined as follows:
 		  for i=3, 4, …., n
@@ -135,7 +121,6 @@ In addition, 6% of an employee's gross pay is withheld for Social Security or GU
 
 Question 24
 Write down a computer solution for finding the standard deviation for a given set of X values. The standard deviation,  is given by the following relation
-
  
 where xi  is a data point and xbar is the mean of the xis
 
@@ -157,7 +142,6 @@ Write a computer solution that can be used to reverse the digits in a given inte
 Question 30
 Assume that no programming language has a function for returning the result of one integer raised to the power of another integer. It has become very necessary for you to write a computer solution that can be used to calculate   where a and b are integers. Note that a may also be a real number but b should always be an integer.
 
-
 Question 31
 When one takes a loan, there are a number of repayment methods that one can adopt to pay the loan within a reasonable time. One of such methods is to use the formula   where PR is the monthly repayment amount, A is the amount borrowed, r is 
 
@@ -168,7 +152,6 @@ the monthly interest rate and n is the number of months the loan is to be paid b
 	    2		          :			:
 	    :		          :			:
 	    m 		  xxxxx.xx		0
-
 
 
 Question 32
