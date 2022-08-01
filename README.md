@@ -18,7 +18,29 @@
 
 - <a href="./codes/advance grading system.cpp">Advance Grading System.</a>
 
-<h3>Try questions: (<a href="./codes/class work/TryQuestions.doc">Document</a>)</h3>
+<h3>Try questions: (<a href="./codes/class work/TryQuestions.txt">Document</a>)</h3>
+
+- <a href="./codes/class work/question 1.cpp">Question 1</a> 
+
+- <a href="./codes/class work/question 2.cpp">Question 2</a>
+
+- <a href="./codes/class work/question 3.cpp">Question 3</a>
+
+- <a href="./codes/class work/question 4.cpp">Question 4</a>
+
+- <a href="./codes/class work/question 5.cpp">Question 5</a>
+
+- <a href="./codes/class work/question 6.cpp">Question 6</a>
+
+- <a href="./codes/class work/question 7.cpp">Question 7</a>
+
+- <a href="./codes/class work/question 8.cpp">Question 8</a>
+
+- <a href="./codes/class work/question 9(a).cpp">Question 9(a)</a>
+
+- <a href="./codes/class work/question 9(b).cpp">Question 9(b)</a>
+
+- <a href="./codes/class work/question 10.cpp">Question 10</a>
 
 - <a href="./codes/class work/question 11.cpp">Question 11</a>
 
