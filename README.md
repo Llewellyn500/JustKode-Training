@@ -56,6 +56,24 @@
 
 - <a href="./codes/class work/question 20.cpp">Question 20</a>
 
+- <a href="./codes/class work/question 21.cpp">Question 21</a>
+
+- <a href="./codes/class work/question 22.cpp">Question 22</a>
+
+- <a href="./codes/class work/question 23.cpp">Question 23</a>
+
+- <a href="./codes/class work/question 24.cpp">Question 24</a>
+
+- <a href="./codes/class work/question 25.cpp">Question 25</a>
+
+- <a href="./codes/class work/question 26.cpp">Question 26</a>
+
+- <a href="./codes/class work/question 27.cpp">Question 27</a>
+
+- <a href="./codes/class work/question 29.cpp">Question 29</a>
+
+- <a href="./codes/class work/question 30.cpp">Question 30</a>
+
 <h2 align=center>BROUGHT TO YOU BY:</h2>
 <img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"> 
 <img align="left" src="./files/Arclapain-Logo_Dark.png" width="100px" height="100px" alt="Arclapain logo">

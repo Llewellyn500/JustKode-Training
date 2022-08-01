@@ -104,7 +104,7 @@ A numeric palindrome is any number that can be read in both directions, that is 
 
 Question 22
 Write a computer solution to generate the Fibonacci series given the first two terms. For example, if the first two terms of a series are 0 and 1, the next (3rd) term is obtained by adding the two preceding terms (1st and 2nd), etc. Thus the third term of the series will be 1 and the fourth will be 2, etc. Generally, the Fibonacci series is defined as follows:
-		  for i=3, 4, …., n
+		 Fi = Fi-1 + Fi-2 for i=3, 4, …., n
 
 Question 23
 Employees of  JB and SONS Consultants Limited are paid at an hourly rate of 25,000.00 cedis per hour for regular hours and one and one-half times per hour for overtime hours in a week. Any hour worked over forty hours per week is overtime. The following national tax sliding scale is then applied to determine the amount of tax to be paid by an employee. 
@@ -120,8 +120,8 @@ Over 5,000,000	30
 In addition, 6% of an employee's gross pay is withheld for Social Security or GUSSS contribution, 3% is withheld as constituency tax and 2% is withheld by the employer as welfare contribution. If an employee has more than three dependents then an amount of 5,000.00 cedis is paid for each dependent in excess of 3 towards National Health Insurance Scheme. The company has no more than 100 employees. You are required to write a computer solution for computing a worker's gross pay, the deductions and his/her net pay. Your computer solution should allow for a number of staff details to be entered for the necessary computations. 
 
 Question 24
-Write down a computer solution for finding the standard deviation for a given set of X values. The standard deviation,  is given by the following relation
- 
+Write down a computer solution for finding the standard deviation for a given set of X values. The standard deviation, σ is given by the following relation
+ \sigma={\sqrt {\frac {\sum(x_{i}-{\mu})^{2}}{N}}}
 where xi  is a data point and xbar is the mean of the xis
 
 Question 25
@@ -140,7 +140,7 @@ Question 29
 Write a computer solution that can be used to reverse the digits in a given integer and display the new number. Hint, you are NOT to use a write statement within a loop structure.
 
 Question 30
-Assume that no programming language has a function for returning the result of one integer raised to the power of another integer. It has become very necessary for you to write a computer solution that can be used to calculate   where a and b are integers. Note that a may also be a real number but b should always be an integer.
+Assume that no programming language has a function for returning the result of one integer raised to the power of another integer. It has become very necessary for you to write a computer solution that can be used to calculate a^b  where a and b are integers. Note that a may also be a real number but b should always be an integer.
 
 Question 31
 When one takes a loan, there are a number of repayment methods that one can adopt to pay the loan within a reasonable time. One of such methods is to use the formula   where PR is the monthly repayment amount, A is the amount borrowed, r is 
