@@ -75,5 +75,5 @@
 - <a href="./codes/class work/question 30.cpp">Question 30</a>
 
 <h2 align=center>BROUGHT TO YOU BY:</h2>
-<img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"> 
-<img align="left" src="./files/Arclapain-Logo_Dark.png" width="100px" height="100px" alt="Arclapain logo">
+<a href="https://github.com/JustKode-Projects"><img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"></a> 
+<a href="https://github.com/Llewellyn500"><img align="left" src="./files/Arclapain-Logo_Dark.png" width="100px" height="100px" alt="Arclapain logo"></a>
