@@ -4,13 +4,15 @@
 using namespace std;
 int main()
 {
+    float years;
     int population = 2000;
-    int years = 0;
-    while (population < 20000)
+    int months = 0;
+    while (population <= 20000)
     {
         population = population + (population * 0.15);
-        years++;
+        months = months+6;
     }
+    years=months/12;
     cout << "It will take " << years << " years for the population to exceed 2 million." << endl;
     return 0;
 }
