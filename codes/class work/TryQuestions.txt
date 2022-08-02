@@ -83,8 +83,8 @@ Your problem is to write a computer solution that would allow a distance to be e
 
 Question 19
 Write a computer solution for evaluating the value of sin2x according to the formula
- 
-Your computer solution should also return the number of terms needed to evaluate sin2x to 1 in 1,000,000 together with the value of sin2x for a given x with appropriate captions. You must put in a check so that your computer solution accepts x as input if only the absolute value of x is less than  .
+ sin2x=x^2-((2^3x^4)/4!)+((2^5x^6)/6!)-((2^7x^8)/8!)+...
+Your computer solution should also return the number of terms needed to evaluate sin2x to 1 in 1,000,000 together with the value of sin2x for a given x with appropriate captions. You must put in a check so that your computer solution accepts x as input if only the absolute value of x is less than  pie/2.
 
 Question 20
 You are required to write a computer solution that can be used to display the numbers 0 to 99 inclusive in the following format, that is as a 10 by 10 array: Use writeln where necessary to mean write on the next line.
