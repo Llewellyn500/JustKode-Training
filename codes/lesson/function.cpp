@@ -8,7 +8,7 @@ int Anna(int a, int b)
 
 int main()
 {
-    int=0;
+    int x = 0;
     Anna(1, 2);
     // cout << Anna(4, 2);
     return 0;
