@@ -1,4 +1,4 @@
-<img src="../files/JUST KODE.png">
+<img src=".././files/JUST KODE.png">
 
 <h1 align="center"> JustKode Training </h1>
 
