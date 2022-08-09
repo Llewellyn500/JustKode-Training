@@ -8,6 +8,8 @@ int Anna(int a, int b)
 
 int main()
 {
-    cout << Anna(4, 2);
+    int=0;
+    Anna(1, 2);
+    // cout << Anna(4, 2);
     return 0;
 }
