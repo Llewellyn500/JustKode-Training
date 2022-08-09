@@ -8,6 +8,8 @@
 
 <h2>Table of Content:</h2>
 
+<h3><a href="./codes/lesson/README.md">Lessons Folder</a><h3>
+
 <h3> Projects done: </h3>
 
 - <a href="./codes/Printing out factorial of a number.cpp">Printing Factorial.</a>
