@@ -15,3 +15,7 @@
 - <a href="./array2.cpp">array2</a>
 
 - <a href="./function.cpp">function</a>
+
+- <a href="./simple calculator.cpp">Simple Calculator</a>
+
+- <a href="./calculator.cpp">Functional Calculator</a>
