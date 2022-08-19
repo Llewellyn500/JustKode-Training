@@ -76,6 +76,36 @@
 
 - <a href="./codes/class work/question 30.cpp">Question 30</a>
 
+- <a href="./codes/class work/question 31.cpp">Question 31</a>
+
+- <a href="./codes/class work/question 32.cpp">Question 32</a>
+
+- <a href="./codes/class work/question 33.cpp">Question 33</a>
+
+- <a href="./codes/class work/question 34.cpp">Question 34</a>
+
+- <a href="./codes/class work/question 35.cpp">Question 35</a>
+
+- <a href="./codes/class work/question 36.cpp">Question 36</a>
+
+- <a href="./codes/class work/question 37.cpp">Question 37</a>
+
+- <a href="./codes/class work/question 38.cpp">Question 38</a>
+
+- <a href="./codes/class work/question 39.cpp">Question 39</a>
+
+- <a href="./codes/class work/question 40.cpp">Question 40</a>
+
+- <a href="./codes/class work/question 41.cpp">Question 41</a>
+
+- <a href="./codes/class work/question 42.cpp">Question 42</a>
+
+- <a href="./codes/class work/question 43.cpp">Question 43</a>
+
+- <a href="./codes/class work/question 44.cpp">Question 44</a>
+
+- <a href="./codes/class work/question 45.cpp">Question 45</a>
+
 <h2 align=center>BROUGHT TO YOU BY:</h2>
 <a href="https://github.com/JustKode-Projects"><img align="left" src="./files/logo dark.png" width="100px" height="100px" alt="Just Kode logo"></a> 
 <a href="https://github.com/Llewellyn500"><img align="left" src="./files/Arclapain-Logo_Dark.png" width="100px" height="100px" alt="Arclapain logo"></a>
