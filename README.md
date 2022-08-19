@@ -10,16 +10,6 @@
 
 <h3><a href="./codes/lesson/README.md">Lessons Folder</a><h3>
 
-<h3> Projects done: </h3>
-
-- <a href="./codes/Printing out factorial of a number.cpp">Printing Factorial.</a>      
-
-- <a href="./codes/converting distance.cpp">Converting Distance.</a>
-
-- <a href="./codes/finding the zero of a function f(x) using the Newton-Raphson method.cpp">Finding the Squares of a Function.</a>
-
-- <a href="./codes/advance grading system.cpp">Advance Grading System.</a>
-
 <h3>Try questions: (<a href="./codes/class work/TryQuestions.txt">Document</a>)</h3>
 
 - <a href="./codes/class work/question 1.cpp">Question 1</a> 
