@@ -10,6 +10,14 @@
 
 <h2>Table of Content:</h2>
 
+- <a href="./advance grading system.cpp">advance grading system</a>
+
+- <a href="./converting distance.cpp">converting distance</a>
+
+- <a href="./finding the zero of a function f(x) using the Newton-Raphson method.cpp">finding the zero of a function f(x) using the Newton-Raphson method</a>
+
+- <a href="./Printing out factorial of a number.cpp">Printing out factorial of a number</a>
+
 - <a href="./array.cpp">array</a>
 
 - <a href="./array2.cpp">array2</a>
@@ -19,3 +27,5 @@
 - <a href="./simple calculator.cpp">Simple Calculator</a>
 
 - <a href="./calculator.cpp">Functional Calculator</a>
+
+
