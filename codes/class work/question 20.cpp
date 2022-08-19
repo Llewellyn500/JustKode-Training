@@ -12,15 +12,16 @@
 // 9   19   29   39   49   59   69   79   89   99
 #include <iostream>
 using namespace std;
-int main(){
-    for (int i = 0; i < 10; i++)
-    {
-        for (int j = 0; j < 10; j++)
-        {
-            cout << i * 10 + j << " ";
+int main()
+{
+    int i,j,n;
+    for(i=0;i<=9;i++){
+        for(j=0;j<=9;j++){
+         n=j*10+i;
+         cout<<n<<" ";
         }
-        cout << endl;
+cout<< endl;
     }
     return 0;
 }
-// the output isn't printing correctly. if you have any ideas of how to correct it please do so.
+

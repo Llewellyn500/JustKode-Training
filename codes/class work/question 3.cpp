@@ -21,6 +21,6 @@ int main (){
             j = i;
         }
     }
-    cout << "The position of the last occurrence of x is " << j << endl;
+    cout << "The position of the last occurrence of x is " << j+1 << endl;
     return 0;
 }

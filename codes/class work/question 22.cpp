@@ -4,17 +4,23 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int n;
+    int firstTerm, SecondTerm, nextTerm, numOfTerms;
+
+    cout << "Enter the first term: ";
+    cin >> firstTerm;
+    cout << "Enter the second term: ";
+    cin >> SecondTerm;
     cout << "Enter the number of terms: ";
-    cin >> n;
-    int a = 0;
-    int b = 1;
-    for (int i = 0; i < n; i++)
-    {
-        int c = a + b;
-        a = b;
-        b = c;
-        cout << c << endl;
+    cin >> numOfTerms;
+
+    nextTerm = firstTerm + SecondTerm;
+    cout << firstTerm << " " << SecondTerm << " " << nextTerm << " ";
+
+    for(int i=3; i<=numOfTerms; i++){
+        firstTerm = SecondTerm;
+        SecondTerm = nextTerm;
+        nextTerm = firstTerm + SecondTerm;
+        cout << nextTerm << " ";
     }
     return 0;
 }
