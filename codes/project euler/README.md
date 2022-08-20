@@ -2,7 +2,7 @@
 
 <h1 align="center"> JustKode Training </h1>
 
-<p align=center>This repository contains all the codes to all the problems we have solved from project euler </p>
+<p align=center>This repository contains all the codes to all the problems we have solved from <a href="https://projecteuler.net/archives">project euler</a> </p>
 
 <p align=center>All the codes can be found in the <a>Codes Folder</a>.</p>
 
