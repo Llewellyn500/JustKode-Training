@@ -10,6 +10,8 @@
 
 <h3><a href="./codes/lesson/README.md">Lessons Folder</a><h3>
 
+<h3><a href="./codes/project euler/README.md">Project Euler.net</a></h3>
+
 <h3>Try questions: (<a href="./codes/class work/TryQuestions.txt">Document</a>)</h3>
 
 - <a href="./codes/class work/question 1.cpp">Question 1</a> 
