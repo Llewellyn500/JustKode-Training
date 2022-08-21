@@ -38,6 +38,12 @@
 
 - <a href="./codes/class work/question 11.cpp">Question 11</a>
 
+- <a href="./codes/class work/question 12.cpp">Question 12</a>
+
+- <a href="./codes/class work/question 13.cpp">Question 13</a>
+
+- <a href="./codes/class work/question 14.cpp">Question 14</a>
+
 - <a href="./codes/class work/question 15.cpp">Question 15</a>
 
 - <a href="./codes/class work/question 16.cpp">Question 16</a>
@@ -63,6 +69,8 @@
 - <a href="./codes/class work/question 26.cpp">Question 26</a>
 
 - <a href="./codes/class work/question 27.cpp">Question 27</a>
+
+- <a href="./codes/class work/question 28.cpp">Question 28</a>
 
 - <a href="./codes/class work/question 29.cpp">Question 29</a>
 
