@@ -42,7 +42,7 @@ int main()
     cin >> opp;
 
     // taking input for both numbers
-    cout << "Enter two numbers" << endl;
+    cout << "Enter two numbers" << endl;   
     cout << "Enter first number: ";
     cin >> a;
     cout << "Enter second number: ";
