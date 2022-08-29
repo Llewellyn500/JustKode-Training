@@ -5,6 +5,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    
+    // massa you want it easy go solve this yourself
     return 0;
 }
