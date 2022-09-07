@@ -15,7 +15,6 @@ int main()
 {
     cout.imbue(locale(cout.getloc(), new group_thousands));
     cout << fixed << setprecision(2) << endl;
-
     double amount;
     cout << "Enter amount: ";
     cin >> amount;

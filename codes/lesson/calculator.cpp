@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 // a function to add 2 numbers
-int Add(int a, int b)
+float Add(float a, float b)
 {
     return a + b;
 }
