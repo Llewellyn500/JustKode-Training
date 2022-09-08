@@ -14,14 +14,15 @@
 using namespace std;
 int main()
 {
-    int i,j,n;
-    for(i=0;i<=9;i++){
-        for(j=0;j<=9;j++){
-         n=j*10+i;
-         cout<<n<<" ";
+    int i, j, n;
+    for (i = 0; i <= 9; i++)
+    {
+        for (j = 0; j <= 9; j++)
+        {
+            n = j * 10 + i;
+            cout << n << " ";
         }
-cout<< endl;
+        cout << endl;
     }
     return 0;
 }
-
