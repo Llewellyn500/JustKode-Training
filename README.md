@@ -14,6 +14,8 @@
 
 <h3>Try questions: (<a href="./codes/class work/TryQuestions.txt">Document</a>)</h3>
 
+- <a href=".\codes\class work\Roots of any given Quadratic Equation.cpp">Roots of any given Quadratic Equation (Midsem Question)</a>
+
 - <a href="./codes/class work/question 1.cpp">Question 1</a> 
 
 - <a href="./codes/class work/question 2.cpp">Question 2</a>

@@ -7,7 +7,7 @@ int main()
     float years;
     int population = 2000;
     int months = 0;
-    while (population <= 20000)
+    while (population <= 2000000)
     {
         population = population + (population * 0.15);
         months = months+6;

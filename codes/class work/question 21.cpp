@@ -3,15 +3,18 @@
 
 #include <iostream>
 using namespace std;
-int main(){
-    int Number,lastDigit, newNumber, M=0;
+int main()
+{
+    int Number, lastDigit, newNumber, M = 0;
     cout << "Enter the number: ";
     cin >> Number;
-    newNumber=Number;
-    while(newNumber!=0){
-        lastDigit=newNumber%10;
-        M=M*10+lastDigit;
-        newNumber=newNumber/10;
+    newNumber = Number;
+
+    while (newNumber != 0)
+    {
+        lastDigit = newNumber % 10;
+        M = M * 10 + lastDigit;
+        newNumber /= 10;
     }
     cout << "Palindrome: " << newNumber << M << endl;
     return 0;
