@@ -5,24 +5,23 @@
 using namespace std;
 int main()
 {
-    int n, i, flag = 0;
-    cout << "Enter the value of n: ";
-    cin >> n;
-    for (i = 2; i <= n / 2; i++)
+    int number, numOfFactors = 0;
+    cout << "Enter a number: ";
+    cin >> number;
+    for (int i = 1; i <= 10; i++)
     {
-        if (n % i == 0)
+        if (number % i == 0)
         {
-            flag = 1;
-            break;
+            numOfFactors++;
         }
     }
-    if (flag == 1)
+    if (numOfFactors == 2)
     {
-        cout << n << " is not a prime number";
+        cout << number << " is a prime number";
     }
     else
     {
-        cout << n << " is a prime number";
+        cout << number << " is not a prime number";
     }
     return 0;
 }
