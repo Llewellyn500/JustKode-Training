@@ -3,27 +3,25 @@
 #include <iostream>
 using namespace std;
 int main (){
-    int n, i;
-    cout << "Enter the number of elements in the array: ";
-    cin >> n;
-    int a[n];
-    cout << "Enter the elements of the array: ";
-    for (i = 0; i < n; i++){
-        cin >> a[i];
+    double mean, median, sum = 0;
+    int size;
+    cout << "Size of array: ";
+    cin >> size;
+
+    double* array = new double[size];
+    for (int i = 1; i<= size; i++){
+        cout << "array["<<i<<"]";
+        cin>>array[i];
+        sum+=array[i];
     }
-    int sum = 0;
-    for (i = 0; i < n; i++){
-        sum = sum + a[i];
-    }
-    float mean = sum / n;
-    cout << "The mean of the array is " << mean << endl;
-    int median = 0;
-    if (n % 2 == 0){
-        median = (a[n / 2] + a[n / 2 - 1]) / 2;
-    }
-    else{
-        median = a[n / 2];
-    }
-    cout << "The median of the array is " << median << endl;
+    mean = sum/size;
+    if (size % 2 == 0)
+        median = (array[size / 2] + array[(size / 2) + 1]) / 2;
+        else 
+        median = array[(size + 1)/2];
+
+        cout << endl;
+        cout << "Mean is " << mean << " and the median is " << median << endl;
+
     return 0;
 }

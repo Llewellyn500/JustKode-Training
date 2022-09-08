@@ -16,6 +16,8 @@
 
 - <a href=".\codes\class work\Roots of any given Quadratic Equation.cpp">Roots of any given Quadratic Equation (Midsem Question)</a>
 
+- <a href=".\codes\class work\factorial of a number.cpp">factorial of a number</a>
+
 - <a href="./codes/class work/question 1.cpp">Question 1</a> 
 
 - <a href="./codes/class work/question 2.cpp">Question 2</a>
